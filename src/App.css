@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  color: white;
+}
+img {
+  max-width: 100%;
+}
+header {
+  width: 300px;
+}
+article,
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
